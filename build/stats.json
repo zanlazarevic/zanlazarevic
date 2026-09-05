@@ -1,0 +1,33 @@
+{
+  "login": "zanlazarevic",
+  "followers": 0,
+  "created_at": "2025-04-11T08:51:51Z",
+  "commits": 9762,
+  "pull_requests": 1646,
+  "repos": 40,
+  "repos_contributed": 38,
+  "additions": 22018517,
+  "deletions": 11912257,
+  "languages": {
+    "JavaScript": 28984569,
+    "PLpgSQL": 3288452,
+    "Python": 124819498,
+    "CSS": 1138182,
+    "TypeScript": 47797200,
+    "HTML": 6834153,
+    "PowerShell": 5331,
+    "Shell": 610213,
+    "Dockerfile": 2504,
+    "Batchfile": 96,
+    "Swift": 2922523,
+    "C": 20108,
+    "CMake": 490,
+    "SCSS": 17709,
+    "Metal": 2265,
+    "Ruby": 1537,
+    "Kotlin": 1529,
+    "Rust": 2361585,
+    "QML": 30601
+  },
+  "fetched_at": "2026-09-05T22:40:25Z"
+}
