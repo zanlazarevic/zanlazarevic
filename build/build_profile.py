@@ -59,11 +59,11 @@ RAMP = " .:-=+*#%@"  # darkest → brightest
 EQUALIZE = 0.8       # 0 = keep the photo's tones, 1 = spread them evenly over the ramp (more detail)
 GAMMA = 1.0          # < 1 lifts the midtones, > 1 darkens them
 
-THEMES = {
-    "dark":  dict(bg="#171A20", border="#2D323E", text="#E7E2F2", art="#C9BAEE", key="#EFDCAB",
-                  head="#ADC2EF", dim="#867DA6", green="#ABDFC5", red="#EFADC0"),
-    "light": dict(bg="#F7F5FB", border="#DDD6EC", text="#252932", art="#6E56B0", key="#8A6A1E",
-                  head="#3B5BA9", dim="#867DA6", green="#2E7D5B", red="#B04A6A"),
+THEMES = {  # black and white only: hierarchy comes from gray shades and weight, never hue
+    "dark":  dict(bg="#0E0E0E", border="#2A2A2A", text="#F2F2F2", art="#E8E8E8", key="#B5B5B5",
+                  head="#FFFFFF", dim="#6B6B6B", green="#B5B5B5", red="#B5B5B5"),
+    "light": dict(bg="#FAFAFA", border="#DCDCDC", text="#111111", art="#1A1A1A", key="#555555",
+                  head="#000000", dim="#9A9A9A", green="#555555", red="#555555"),
 }
 
 
