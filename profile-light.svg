@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="875" height="498" viewBox="0 0 875 498" role="img" aria-label="zanlazarevic — ASCII portrait and profile card">
-<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:12px;white-space:pre;fill:#252932}.a{fill:#6E56B0}.k{fill:#8A6A1E}.h{fill:#3B5BA9;font-weight:600}.d{fill:#867DA6}.g{fill:#2E7D5B}.r{fill:#B04A6A}.t{fill:#867DA6;font-style:italic}</style>
-<rect x="0.5" y="0.5" width="874" height="497" rx="10" fill="#F7F5FB" stroke="#DDD6EC"/>
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:12px;white-space:pre;fill:#111111}.a{fill:#1A1A1A}.k{fill:#555555}.h{fill:#000000;font-weight:600}.d{fill:#9A9A9A}.g{fill:#555555}.r{fill:#555555}.t{fill:#9A9A9A;font-style:italic}</style>
+<rect x="0.5" y="0.5" width="874" height="497" rx="10" fill="#FAFAFA" stroke="#DCDCDC"/>
 <text x="24" y="36.00" xml:space="preserve"><tspan class="a">                 #%%%%%%@%%%%%%#%%                          </tspan>   <tspan class="h">zanlazarevic@github </tspan><tspan class="d">──────────────────────────────</tspan></text>
 <text x="24" y="51.00" xml:space="preserve"><tspan class="a">                *#%%%%%%@@@@@@@@@@@%%                       </tspan>   <tspan class="t">Don't follow me, I have no idea where I am going.</tspan></text>
 <text x="24" y="66.00" xml:space="preserve"><tspan class="a">                %@@@@@@@@@%%%%%%%%@@@@%%                    </tspan>   </text>
